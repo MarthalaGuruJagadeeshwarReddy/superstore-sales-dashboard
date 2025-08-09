@@ -1,3 +1,5 @@
+<img width="1742" height="740" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/bce0d123-f295-47a0-9d8f-30d62b1b74e3" />
+
 
 Superstore Sales & Profit Dashboard 
   Overview
